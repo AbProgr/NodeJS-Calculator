@@ -1,0 +1,9 @@
+{
+  "name": "nodejs_basic-sum",
+  "version": "0.0.0",
+  "description": "Nodejs_BasicSum",
+  "main": "app.js",
+  "author": {
+    "name": "abhijeet"
+  }
+}
